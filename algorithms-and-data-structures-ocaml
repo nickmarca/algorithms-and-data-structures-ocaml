@@ -1,0 +1,11 @@
+  /Users/nicholasmarcaccini/code/algorithms-and-data-structures-ocaml:
+  total used in directory 120 available 9223372036852048933
+  drwxr-xr-x   9 nicholasmarcaccini  staff    288 14 Feb 15:28 .
+  drwxr-xr-x  35 nicholasmarcaccini  staff   1120 13 Feb 11:15 ..
+  drwxr-xr-x  12 nicholasmarcaccini  staff    384 14 Feb 15:28 .git
+  -rw-r--r--   1 nicholasmarcaccini  staff     25  7 Feb 17:32 .gitignore
+  drwxr-xr-x  10 nicholasmarcaccini  staff    320  7 Feb 16:04 .idea
+  -rwxr-xr-x   1 nicholasmarcaccini  staff  42312 14 Feb 14:54 reverse_string
+  -rw-r--r--   1 nicholasmarcaccini  staff    423 14 Feb 14:54 reverse_string.cmi
+  -rw-r--r--   1 nicholasmarcaccini  staff    642 14 Feb 14:54 reverse_string.cmo
+  -rw-r--r--   1 nicholasmarcaccini  staff    259 14 Feb 15:28 reverse_string.ml

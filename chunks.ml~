@@ -1,0 +1,16 @@
+let chunks1 (i, t) =
+  match i with
+  | [] -> (i, t)
+  | h :: r -> (r, h :: t)
+
+
+let rec chunks (i, t, s) =
+  if List.length t = s || List.length i = 0
+  then (i, t)
+  else
+    let (i0, t0) = chunks1(i, t) in
+    chunks(i0, t0, s);;
+
+let (i, t) = chunks([1;2;3;4;], [], 2);;
+    
+
